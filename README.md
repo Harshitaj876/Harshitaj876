@@ -20,12 +20,9 @@ Here are some of the technologies I work with:
 📫 **Get in Touch**  
 Feel free to connect with me! I’m always open to collaboration, feedback, or just a good chat about technology.
 
-- **Email:** [harshitaj1207@gmail.com]  
-- **LinkedIn:** [harshita-jain07]  
+- **Email:** harshitaj1207@gmail.com 
+- **LinkedIn:** www.linkedin.com/in/harshita-jain07
 
-🔍 **Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourUsername&show_icons=true&hide_title=true&count_private=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourUsername&layout=compact&theme=radical)
 
 🎉 **Fun Fact**  
 I have a strong passion for open-source contributions and have been involved in several exciting projects. If you need a collaborator or just want to talk tech, I’d be happy to connect!
