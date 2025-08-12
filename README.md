@@ -5,15 +5,16 @@ Welcome to my GitHub! I'm a passionate and results-driven software developer wit
 🚀 **Technologies & Tools**  
 Here are some of the technologies I work with:
 
-- **Languages:** JavaScript,C#,TypeScript, Dotnet
+- **Languages:** JavaScript,C#,TypeScript, Dotnet Core
+- **Design:** Figma, Adobe Illustrator
 - **Frontend:** React, HTML5, CSS3, Angular  
 - **Backend:** ASP.NET Core WEB API 
 - **Databases:** SQL Server 
-- **Tools & Platforms:** Git, GitHub, AWS
+- **Tools & Platforms:** Git, GitHub, AWS, Docker, Jenkins
 - **Others:** REST APIs
 
 🌱 **Currently Learning**   
-- Cloud Computing (AWS, Azure)  
+- Cloud Computing (AWS)  
 - Advanced Docker & Kubernetes orchestration  
 - Serverless architecture
 
