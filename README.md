@@ -9,7 +9,7 @@ Here are some of the technologies I work with:
 - **Design:** Figma, Adobe Illustrator
 - **Frontend:** React, HTML5, CSS3, Angular  
 - **Backend:** ASP.NET Core WEB API 
-- **Databases:** SQL Server 
+- **Databases:** Microsoft SQL Server, RDBMS 
 - **Tools & Platforms:** Git, GitHub, AWS, Docker, Jenkins
 - **Others:** REST APIs
 
@@ -23,6 +23,7 @@ Feel free to connect with me! I’m always open to collaboration, feedback, or j
 
 - **Email:** harshitaj1207@gmail.com 
 - **LinkedIn:** www.linkedin.com/in/harshita-jain07
+- **Behance:** https://www.behance.net/harshitaj12
 
 
 🎉 **Fun Fact**  
